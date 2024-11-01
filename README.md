@@ -16,5 +16,5 @@ pip install yt-dlp
 `ffmpeg` is required for audio conversion
 
 ```bash
-sudo apt install ffmpeg 'for ubuntu'
-brew install ffmpeg 'for macOS
+    sudo apt install ffmpeg 'for ubuntu'
+    brew install ffmpeg 'for macOS
