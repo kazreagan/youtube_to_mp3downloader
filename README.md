@@ -9,8 +9,8 @@ This Python script allows you to download audio from YouTube videos and save it 
 **Requirements**
 Make sure you have Python installed. Install the necessary libraries with:
 
-```bash
-pip install yt-dlp
+<!-- ```bash
+pip install yt-dlp``` -->
 
 **Additionally**
 `ffmpeg` is required for audio conversion
